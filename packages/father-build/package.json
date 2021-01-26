@@ -1,5 +1,5 @@
 {
-  "name": "father-build",
+  "name": "cook-father-build",
   "version": "1.19.1",
   "description": "Library build tool based on rollup.",
   "main": "lib/index.js",
